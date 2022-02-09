@@ -1,0 +1,2 @@
+A node should have at least two parts to it; a data type member and a node pointer member.
+The data type member carries the value of the node while the node pointer carries the pointer that directs the node to the next node.
